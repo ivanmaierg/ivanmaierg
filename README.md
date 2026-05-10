@@ -17,15 +17,15 @@
 
 ---
 
-## 🚀 About me
+## About me
 
-I build **B2B platforms** that thousands of operators rely on every day. Messy data, slow networks, no patience for a confusing UI.
+I build **B2B platforms** that thousands of operators rely on every day. Messy data, slow networks, and users who don't have time to figure out a confusing UI.
 
 Right now I'm at **[Nauto](https://nauto.com)** (Series C · AI fleet safety), helping save lives on the road by redefining the company's web platform. Before that I helped scale the CRM at **Mercado Libre** (25k+ agents, 5M+ monthly interactions) and the WMS at **Envíopack** (30% faster operator task time).
 
 > 4+ years building for the people who have to use it tomorrow morning.
 
-## 🛠 Stack I reach for
+## Stack I reach for
 
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
@@ -38,18 +38,18 @@ Right now I'm at **[Nauto](https://nauto.com)** (Series C · AI fleet safety), h
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
-## 🚢 Currently shipping
+## Currently shipping
 
 - 💸 **[plata](https://github.com/ivanmaierg/plata)** — The personal finance agent you actually own.
 - 📖 **[verbum](https://github.com/ivanmaierg/verbum)** — TUI + CLI Bible reader. Hexagonal architecture, Bun + TypeScript + OpenTUI.
 - 🎮 **[claudebeat](https://github.com/ivanmaierg/claudebeat)** — Chiptune notification sounds for Claude Code. Eight 8-bit cues that fire when Claude needs your attention.
 - 🔄 **[github-refresh](https://github.com/ivanmaierg/github-refresh)** — Chrome extension that auto-refreshes idle GitHub tabs and warns when an active one is going stale. React + TS + Tailwind + shadcn, MV3.
 
-## 🧭 What I'm exploring
+## What I'm exploring
 
 **Agentic UI & agentic experiences.** What does software actually look like when an agent is in the loop with the user? That question gets a lot more interesting once you stop treating "where do we put the chat box" as the answer.
 
-Beyond the UI: how to push AI deeper into products, workflows, and team rituals. The goal is for AI to feel like default infrastructure, the way databases or version control feel today.
+Beyond the UI: how to push AI deeper into the products and workflows we ship. The goal is for AI to feel like default infrastructure, the way databases or version control feel today.
 
 ---
 
