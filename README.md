@@ -19,9 +19,9 @@
 
 ## 🚀 About me
 
-I build **B2B platforms** that thousands of operators rely on every day — messy data, slow networks, no room for a confusing UI.
+I build **B2B platforms** that thousands of operators rely on every day. Messy data, slow networks, no patience for a confusing UI.
 
-Right now I'm at **[Nauto](https://nauto.com)** (Series C · AI fleet safety), helping save lives on the road by redefining the company's web platform. Before that I helped scale the next-gen CRM at **Mercado Libre** (25k+ agents, 5M+ monthly interactions) and the WMS at **Envíopack** (30% faster operator task time).
+Right now I'm at **[Nauto](https://nauto.com)** (Series C · AI fleet safety), helping save lives on the road by redefining the company's web platform. Before that I helped scale the CRM at **Mercado Libre** (25k+ agents, 5M+ monthly interactions) and the WMS at **Envíopack** (30% faster operator task time).
 
 > 4+ years building for the people who have to use it tomorrow morning.
 
@@ -47,9 +47,9 @@ Right now I'm at **[Nauto](https://nauto.com)** (Series C · AI fleet safety), h
 
 ## 🧭 What I'm exploring
 
-**Agentic UI & agentic experiences** — designing the interface layer where humans and AI actually collaborate. Less "chat box on the side", more rethinking how software gets used when an agent is in the loop.
+**Agentic UI & agentic experiences.** What does software actually look like when an agent is in the loop with the user? That question gets a lot more interesting once you stop treating "where do we put the chat box" as the answer.
 
-Beyond the UI layer: pushing AI usage forward across everything — products, workflows, how teams ship. Not as a bolted-on feature, but as a default capability.
+Beyond the UI: how to push AI deeper into products, workflows, and team rituals. The goal is for AI to feel like default infrastructure, the way databases or version control feel today.
 
 ---
 
