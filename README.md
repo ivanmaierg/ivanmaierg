@@ -45,7 +45,7 @@ Right now I'm at **[Nauto](https://nauto.com)** (Series C · AI fleet safety), h
 - 🎮 **[claudebeat](https://github.com/ivanmaierg/claudebeat)** — Chiptune notification sounds for Claude Code. Eight 8-bit cues that fire when Claude needs your attention.
 - 🔄 **[github-refresh](https://github.com/ivanmaierg/github-refresh)** — Chrome extension that auto-refreshes idle GitHub tabs and warns when an active one is going stale. React + TS + Tailwind + shadcn, MV3.
 
-## 🧭 Where I'm heading
+## 🧭 What I'm exploring
 
 **Agentic UI & agentic experiences** — designing the interface layer where humans and AI actually collaborate. Less "chat box on the side", more rethinking how software gets used when an agent is in the loop.
 
