@@ -5,7 +5,7 @@
 <h1 align="center">👋 Hey, I'm Ivan Maier Gallardo</h1>
 
 <p align="center">
-  <strong>Full-stack Software Engineer</strong> · React · Node · Postgres · Buenos Aires 🇦🇷
+  <strong>Full-stack Software Engineer</strong> · React · Next.js · Node.js · Buenos Aires 🇦🇷
 </p>
 
 <p align="center">
