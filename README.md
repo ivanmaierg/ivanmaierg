@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ivanmaierg.png" width="120" alt="Ivan Maier Gallardo" />
+  <img src="https://images.weserv.nl/?url=github.com/ivanmaierg.png&w=240&h=240&fit=cover&mask=circle" width="120" alt="Ivan Maier Gallardo" />
 </p>
 
 <h1 align="center">👋 Hey, I'm Ivan Maier Gallardo</h1>
